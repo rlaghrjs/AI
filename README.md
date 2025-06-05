@@ -5,8 +5,9 @@
 <!-- introduce -->
 ## 문제정의
 
-- This is my FIRST PROJECT
-- Full Stack developed
+-정형데이터분류
+-입력변수 : 날짜, 시간, 온도(C), 습도(%), 풍속(m/s), 강수량(mm), 강설(cm), 계절, 공휴일여부, 운영일여부	
+-츨력변수 : 자전거 대여 수
 
 ------
 <!-- Language logo-->
