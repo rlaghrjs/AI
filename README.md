@@ -11,5 +11,21 @@
 -츨력변수 : 자전거 대여 수
 
 ------
+
 ## 데이터설명
+
+-데이터 개수
+-속성
+- training data, test data 비율 
+-검증 데이터 비율
+
+##전처리 과정
+
+-Numpy, pandas 전처리
+
+
+##하이퍼 파라미터 최적화 결과 
+-하이퍼 파라미터 를 변경 하여 test
+-Test 3개 이상 
+-하이퍼 파리미터 예) layer 수, 활성화 함수, 손실 함수, neuron 수, kernel 크기, padding 여부, 배치 사이즈, learning rate 등   
 
