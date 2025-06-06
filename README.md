@@ -22,7 +22,11 @@
 
 ## 전처리 과정
 
--Numpy, pandas 전처리
+- Date데이터를 datetime타입으로 변경
+- sin, cos함수를 이용하여 Hour, Month 데이터의 순환성 표시
+- Weekday데이터의 각 요일을 숫자로 변환하고 주말 여부를 0과 1로 구분
+- Holiday와 Functioning day는 0과 1로 구분 가능하게 변경
+- Seasons, Weekday를 원핫 인코딩으로 처리
 
 
 ## 하이퍼 파라미터 최적화 결과 
