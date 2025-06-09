@@ -15,6 +15,23 @@
 - 데이터 출처 : https://archive.ics.uci.edu/dataset/560/seoul+bike+sharing+demand
 - 총 데이터 개수 : 8760개
 - 속성 : 14개
+| 변수명             | 설명                |
+|------------------|-------------------|
+| Date             | 날짜 (datetime)    |
+| Hour             | 시간               |
+| Temperature(C)   | 기온               |
+| Humidity(%)      | 습도               |
+| Wind speed (m/s) | 풍속               |
+| Wind speed (m/s) | 풍속               |
+| Wind speed (m/s) | 풍속               |
+| Wind speed (m/s) | 풍속               |
+| Wind speed (m/s) | 풍속               |
+| Wind speed (m/s) | 풍속               |
+| Wind speed (m/s) | 풍속               |
+| Wind speed (m/s) | 풍속               |
+| Wind speed (m/s) | 풍속               |
+| Wind speed (m/s) | 풍속               |
+
 - 데이터 비율:
   - 훈련데이터 : 70퍼
   - 테스트데이터 : 30퍼
