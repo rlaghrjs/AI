@@ -18,20 +18,20 @@
 
 | 변수명                   | 설명               |
 |--------------------------|--------------------|
-| Date                     | 날짜 (datetime)    |
+| Date                     | 날짜               |
 | Rented Bike Count        | 자전거 대여 수      |
 | Hour                     | 시간               |
 | Temperature(C)           | 기온               |
 | Humidity(%)              | 습도               |
 | Wind speed (m/s)         | 풍속               |
 | Visibility (10m)         | 가시거리           |
-| Dew point temperature(C) | 풍속       |
-| Solar Radiation (MJ/m2)  | 풍속               |
-| Rainfall(mm) | 풍속               |
-| Snowfall(cm) | 풍속               |
-| Seasons | 풍속               |
-| Holiday | 풍속               |
-| Functioning Day | 풍속               |
+| Dew point temperature(C) | 이슬점 온도        |
+| Solar Radiation (MJ/m2)  | 태양복사           |
+| Rainfall(mm)             | 강수량             |
+| Snowfall(cm)             | 강설량             |
+| Seasons                  | 계절               |
+| Holiday                  | 공휴일 여부        |
+| Functioning Day          | 운영일 여부        |
 
 
 - 데이터 비율:
