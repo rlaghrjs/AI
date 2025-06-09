@@ -7,7 +7,7 @@
 
 - 서울 자전거 공유 수요 데이터를 활용한 여러 조건에 따른 자전거 대여량 확인 모델
 - 정형데이터회귀
-- 입력변수 : 날짜, 시간, 온도(C), 습도(%), 풍속(m/s), 가시거리(10m), 이슬점 온도(C), <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- 입력변수 : 날짜, 시간, 온도(C), 습도(%), 풍속(m/s), 가시거리(10m), 이슬점 온도(C), <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 태양복사(MJ/m2), (강수량(mm), 강설량(cm), 계절, 공휴일여부, 운영일여부	
 - 출력변수 : 자전거 대여 수
 
