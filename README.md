@@ -16,22 +16,23 @@
 - 총 데이터 개수 : 8760개
 - 속성 : 14개
 
-| 변수명             | 설명            |
-|------------------|-------------------|
-| Date             | 날짜 (datetime)    |
-| Hour             | 시간               |
-| Temperature(C)   | 기온               |
-| Humidity(%)      | 습도               |
-| Wind speed (m/s) | 풍속               |
-| Wind speed (m/s) | 풍속               |
-| Wind speed (m/s) | 풍속               |
-| Wind speed (m/s) | 풍속               |
-| Wind speed (m/s) | 풍속               |
-| Wind speed (m/s) | 풍속               |
-| Wind speed (m/s) | 풍속               |
-| Wind speed (m/s) | 풍속               |
-| Wind speed (m/s) | 풍속               |
-| Wind speed (m/s) | 풍속               |
+| 변수명                   | 설명               |
+|--------------------------|--------------------|
+| Date                     | 날짜 (datetime)    |
+| Rented Bike Count        | 자전거 대여 수      |
+| Hour                     | 시간               |
+| Temperature(C)           | 기온               |
+| Humidity(%)              | 습도               |
+| Wind speed (m/s)         | 풍속               |
+| Visibility (10m)         | 가시거리           |
+| Dew point temperature(C) | 풍속       |
+| Solar Radiation (MJ/m2)  | 풍속               |
+| Rainfall(mm) | 풍속               |
+| Snowfall(cm) | 풍속               |
+| Seasons | 풍속               |
+| Holiday | 풍속               |
+| Functioning Day | 풍속               |
+
 
 - 데이터 비율:
   - 훈련데이터 : 70퍼
