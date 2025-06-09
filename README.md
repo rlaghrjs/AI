@@ -15,7 +15,8 @@
 - 데이터 출처 : https://archive.ics.uci.edu/dataset/560/seoul+bike+sharing+demand
 - 총 데이터 개수 : 8760개
 - 속성 : 14개
-| 변수명             | 설명                |
+
+| 변수명             | 설명            |
 |------------------|-------------------|
 | Date             | 날짜 (datetime)    |
 | Hour             | 시간               |
