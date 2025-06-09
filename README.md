@@ -49,7 +49,7 @@
 
 ## ⚙️ 사용된 옵션
 
-- 은닉층 활성화 함수+ : ReLU
+- 은닉층 활성화 함수 : ReLU
 - Optimizer : adam
 - 평가지표 : MSE
 
